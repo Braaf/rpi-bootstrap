@@ -6,3 +6,8 @@ crash.log
 
 # For built boxes
 *.box
+output*
+
+# Binary for builder
+packer-builder-arm-image
+packer-plugin-arm-image
